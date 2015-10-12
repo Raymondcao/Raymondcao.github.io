@@ -3,7 +3,7 @@ title: Ruiming's Blog
 email: caoruiming@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Ruiming Cao. Third-year, computer science major undergraduate at UCLA.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://Raymondcao.github.io" # the base hostname & protocol for your site
 github_username:  Raymondcao
 
